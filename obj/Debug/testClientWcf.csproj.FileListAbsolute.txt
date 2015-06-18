@@ -1,0 +1,6 @@
+c:\users\comarch\documents\visual studio 2013\Projects\testClientWcf\testClientWcf\bin\Debug\testClientWcf.exe.config
+c:\users\comarch\documents\visual studio 2013\Projects\testClientWcf\testClientWcf\bin\Debug\testClientWcf.exe
+c:\users\comarch\documents\visual studio 2013\Projects\testClientWcf\testClientWcf\bin\Debug\testClientWcf.pdb
+c:\users\comarch\documents\visual studio 2013\Projects\testClientWcf\testClientWcf\obj\Debug\testClientWcf.csprojResolveAssemblyReference.cache
+c:\users\comarch\documents\visual studio 2013\Projects\testClientWcf\testClientWcf\obj\Debug\testClientWcf.exe
+c:\users\comarch\documents\visual studio 2013\Projects\testClientWcf\testClientWcf\obj\Debug\testClientWcf.pdb
